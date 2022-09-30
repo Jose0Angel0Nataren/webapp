@@ -1,0 +1,28 @@
+.foot{
+    margin-top: 00.75rem;
+    margin-bottom: 00.75rem;
+    display: flex;
+}
+.foot.style{
+    border-radius: 0.5rem;
+    background-color:rgb(22, 20, 22);
+    min-height: 5rem;
+    padding: 10px;
+    /*display: flex;*/
+    justify-content:center ;
+    color: azure;
+}
+.txtitems{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5rem; 
+    color:dimgray;
+    margin: 2rem;
+}
+.logoitemF{
+    max-width: 3rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.imgcopyright{
+    max-height: 1rem;
+}

@@ -1,0 +1,39 @@
+.head{
+    min-height: 5rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color:rgb(22, 20, 22);
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navleft{
+    display: flex;
+    align-items: center;
+}
+.navright{
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 10rem;
+    margin-right: 20px;
+}
+.navoptions{
+    border-radius: 0.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:2rem;
+    background-color:inherit;
+    border-color: rgb(22, 20, 22);
+    color: azure;
+    margin: 10px;
+}
+.navoptions.button{
+    background-color:azure;
+    color:black;
+}
+.navoptions.search{
+    border-color: azure;
+}
